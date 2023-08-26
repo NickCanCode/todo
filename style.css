@@ -1,0 +1,104 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik&display=swap');
+
+html {
+  height: 100%;
+  width: 100%;
+}
+
+body {
+  margin: 0px;
+  background-color: #23297b;
+  text-align: center;
+  font-family: 'Rubik', sans-serif;
+}
+
+#title {
+  color: white;
+}
+
+#main {
+  background-color: white;
+  margin-left: 35%;
+  margin-right: 35%;
+  padding-top: 2%;
+  padding-bottom: 5%;
+  border-radius: 5px;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+li {
+  display: inline-block;
+}
+
+
+#addButton {
+  padding-left: 25%;
+  padding-right: 25%;
+  padding-top: 1%;
+  padding-bottom: 1%;
+  background-color: #3d4399;
+  color: white;
+  border-style: none;
+  border-radius: 4px;
+}
+
+#list {
+  margin-top: 3%;
+}
+
+.listItem {
+  background-color: #d4d4d4;
+  margin-left: 20%;
+  margin-right: 20%;
+  margin-top: 2%;
+  padding-left: 3%;
+  padding-right: 3%;
+  padding-top: 2%;
+  padding-bottom: 2%;
+  border-radius: 10px;
+}
+
+.finishedItem {
+  background-color: #51a44c;
+  margin-left: 20%;
+  margin-right: 20%;
+  margin-top: 2%;
+  padding-left: 3%;
+  padding-right: 3%;
+  padding-top: 2%;
+  padding-bottom: 2%;
+  border-radius: 10px;
+}
+
+.deletebutton {
+  background-color: inherit;
+  border-style: none;
+}
+
+.checkbutton {
+  background-color: inherit;
+  border-style: none;
+}
+
+footer {
+  position: absolute;
+  bottom: 0;
+  height: 20px;
+  width: 100%;
+  color: white;
+}
+
+a:link,
+a:hover,
+a:visited {
+  color: white;
+}
+
+a:active {
+  color: #737373;
+}
