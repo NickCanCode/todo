@@ -55,3 +55,5 @@ function check(target) {
   //adds finishedItem class (makes it green)
   checkElement.add("finishedItem");
 }
+
+/*Nick was here*/
