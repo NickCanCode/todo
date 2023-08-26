@@ -56,4 +56,6 @@ function check(target) {
   checkElement.add("finishedItem");
 }
 
-/*Nick was here*/
+/* Nick was here */
+
+/*and here again*/
